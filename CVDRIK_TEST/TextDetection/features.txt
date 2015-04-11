@@ -1,0 +1,9 @@
+HOG
+LBP
+mean
+standard deviation
+energy
+entropy
+inertia
+local homogeneity
+correlation

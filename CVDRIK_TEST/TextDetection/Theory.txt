@@ -1,0 +1,13 @@
+Steps:
+1) RGB to BGR
+2) Grayscaling
+3) Canny Edge
+4) Stroke Width transform
+5) Stroke Width Filtering
+6) Normalization-- only for saving
+7) Scaling  ----- only for saving
+8) Legally connected components from SWT  filtered image
+9) Filter the components
+10) Components with boxes
+11) Make chains of components
+12) Gray to RGB

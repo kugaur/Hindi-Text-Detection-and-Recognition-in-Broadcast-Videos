@@ -1,0 +1,5 @@
+parameter_File_For_Text_Detection_From_Video
+cannyTh1 = 200
+cannyTh2 = 200
+cannyWinSize = 3
+

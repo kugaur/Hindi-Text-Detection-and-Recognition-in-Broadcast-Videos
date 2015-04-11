@@ -1,0 +1,2 @@
+export TESSDATA_PREFIX=/usr/share/tesseract-ocr/
+
